@@ -1,7 +1,7 @@
 # Reverse-Logistics-Program-Case-Study
 ## Hi, I’m Victorian 👋
 
-I’m a Program Lead with experience managing logistics and reverse logistics programs at enterprise scale.
+I’m a Program Lead with experience managing logistics programs at enterprise scale.
 My work focuses on program execution, process engineering, analytics, and partnering with software teams to build scalable operational solutions.
 
 ### Portfolio
